@@ -1,1 +1,3 @@
 # Image-Search-App
+this app is made of JAVASCRIPT,HTML,CSS
+TO SEARCH IMAGES EFFICIENTLY
